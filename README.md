@@ -1,4 +1,4 @@
-# A basic example of platformer physics using pygame and pymunk!
+# A basic platformer demo using pygame and pymunk!
 
 ![Demo](https://github.com/joey-scanga/procedural-pygame-platformer/blob/main/demo.gif)
 
