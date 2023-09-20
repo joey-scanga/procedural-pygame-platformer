@@ -1,6 +1,6 @@
 # A basic example of platformer physics using pygame and pymunk!
 
-[![Demo](https://github.com/joey-scanga/procedural-pygame-platformer/blob/main/demo.gif)
+![Demo](https://github.com/joey-scanga/procedural-pygame-platformer/blob/main/demo.gif)
 
 Also contains some basic level generation using a simple [random walk](https://en.wikipedia.org/wiki/Random_walk) variation, where there are a few "drunk walkers"
 at different parts of the map.
