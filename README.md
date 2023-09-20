@@ -12,22 +12,22 @@ a look at it.
 To run:
 
 `
-git clone https://www.github.com/joey-scanga/procedural-pygame-platformer
-cd procedural-pygame-platformer
-python3 -m venv .venv
-. .venv/bin/activate
-pip install -r requirements.txt
-cd src/
-python3 game.py
+git clone https://www.github.com/joey-scanga/procedural-pygame-platformer\
+cd procedural-pygame-platformer\
+python3 -m venv .venv\
+. .venv/bin/activate\
+pip install -r requirements.txt\
+cd src/\
+python3 game.py\
 `
 
 Controls:
 
 `
-L/R arrow keys: move
-Spacebar: jump
-R: respawn from top of map
-Enter: regenerate map
+L/R arrow keys: move\
+Spacebar: jump\
+R: respawn from top of map\
+Enter: regenerate map\
 `
 
 
